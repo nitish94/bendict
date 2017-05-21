@@ -26,7 +26,7 @@ wget https://github.com/nitish94/bendict/archive/master.zip
 unzip master.zip
 ```
 ```
-cd bendict
+cd bendict-master
 ```
 ```
 sudo make install
