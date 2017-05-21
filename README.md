@@ -39,7 +39,7 @@ If you find a bug, please open a new issue with details: [https://github.com/nit
 
 ## Contributors
 
-###[Sabbir Ahmed](https://github.com/thesabbir)
+### [Sabbir Ahmed](https://github.com/thesabbir/)
 
 Thanks him for his awesome database. Only for him now it work. The previous database of mine isn't near to his database. I just customized it a little.
 
@@ -47,15 +47,15 @@ Thanks him for his awesome database. Only for him now it work. The previous data
 
 It's only his contribution that I can build up this. Without his help I can never make it myself
 
-###[Raihan Ali](https://github.com/ray6an1)
+### [Raihan Ali](https://github.com/ray6an1/)
 
 Thanks isn't just enough for our beloved Rayhan da. He introduced me to Linux and he was always there for me.
 
-### [Tanjim Hossain](https://github.com/audacioustux)
+### [Tanjim Hossain](https://github.com/audacioustux/)
 
 He is the one who motivate me to do this. And always help whenever I need. His suggestions really worth my thanks...
 
-###[Md. Ashikuzzaman](https://github.com/ashikuzzaman-ar)
+### [Md. Ashikuzzaman](https://github.com/ashikuzzaman-ar/)
 
 His suggestion will make better for no doubt. Thanks to him this dictionary will get word suggestion very soon.
 # bendict
