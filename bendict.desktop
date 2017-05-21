@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=BenDict
+Type=Application
+Exec= python3 /opt/bendict/BenDict.py
+Terminal=false
+Icon=/opt/bendict/icons/g256.png
+Comment=English to Bengali Dictionary for linux.
+NoDisplay=false
+Categories=Education;
